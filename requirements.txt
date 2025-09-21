@@ -1,0 +1,9 @@
+ipykernel
+langchain 
+openai 
+langchain-openai
+langchain-chroma 
+langchain-experimental
+open_clip_torch 
+torch
+pymupdf
