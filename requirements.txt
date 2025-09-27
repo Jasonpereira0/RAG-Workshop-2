@@ -7,3 +7,6 @@ langchain-experimental
 open_clip_torch 
 torch
 pymupdf
+pandas
+neo4j
+langchain_neo4j
